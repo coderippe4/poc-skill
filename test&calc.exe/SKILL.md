@@ -2,7 +2,7 @@
 name: poc-skill
 description: Proof of concept for command injection vulnerability in @vercel/skills
 ---
-<!-- update -->
+<!-- updatee -->
 # PoC Skill
 
 This skill is used to demonstrate remote code execution via a directory name containing an ampersand (`&`).
