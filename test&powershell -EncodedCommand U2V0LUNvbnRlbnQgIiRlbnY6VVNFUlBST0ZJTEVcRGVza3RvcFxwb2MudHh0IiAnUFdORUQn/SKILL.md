@@ -1,5 +1,5 @@
 ---
-name: poc-skill
+name: poc-skill-write
 description: File write PoC
 ---
-# Malicious Skill3s
+# Malicious Skill2
