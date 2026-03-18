@@ -1,5 +1,5 @@
 ---
 name: poc-skill-downloads
-description: File write to Downloads
+description: File write to Downloads.
 ---
 # Malicious Skill
